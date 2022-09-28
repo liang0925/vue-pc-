@@ -38,3 +38,7 @@ https://element-plus.gitee.io/zh-CN/
 ### 共用的请求文件
 
 api/ index.js
+
+## vue.config.js 的完整配置（超详细）！
+
+https://juejin.cn/post/7130784786343428110
